@@ -4,7 +4,7 @@ ZEBEDEE enables developers to make financial transactions a native part of their
 
 Join hundreds of innovative developers creating value-driven experiences for their users. One simple API integration to power the fabric of your application with instantaneous Bitcoin microtransactions -- **BUILD WITH ZBD**.
 
-To get started [click HERE to create an account at the ZEBEDEE Developer Dashboard(https://dashboard.zebedee.io/signup). Then head on over to our [Documentation portal](https://docs.zebedee.io) to get building with the APIs!
+To get started [click HERE to create an account at the ZEBEDEE Developer Dashboard](https://dashboard.zebedee.io/signup). Then head on over to our [Documentation portal](https://docs.zebedee.io) to get building with the APIs!
 
 ## Contribution Guidelines
 
