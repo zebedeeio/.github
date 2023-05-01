@@ -1,24 +1,55 @@
-## Welcome to ZEBEDEE
+<p align="center">
+  <a href="https://zebedee.io">
+    <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="96">
+    <h3 align="center">ZEBEDEE</h3>
+  </a>
+</p>
 
-ZEBEDEE enables developers to make financial transactions a native part of their apps and games. Easy to implement, infinitely flexible and inherently global. ZEBEDEE makes using Bitcoin Lightning Network a breeze by providing industry-leading developer tools, APIs, and SDKs.
+<div align="center">
+  
+[![bitcoin ln payments](https://img.shields.io/badge/Bitcoin%20Lightning-Payments-orange?style=for-the-badge&logo=bitcoin)](https://zebedee.io)
+  
+</div>
 
-Join hundreds of innovative developers creating value-driven experiences for their users. One simple API integration to power the fabric of your application with instantaneous Bitcoin microtransactions -- **BUILD WITH ZBD**.
+<p align="center">
+  Bitcoin Lightning APIs - Global Payment Solutions
+</p>
 
-To get started [click HERE to create an account at the ZEBEDEE Developer Dashboard](https://dashboard.zebedee.io/signup). Then head on over to our [Documentation portal](https://docs.zebedee.io) to get building with the APIs!
+<p align="center">
+  <a href="https://docs.zebedee.io"><strong>Documentation</strong></a> ·
+  <a href="https://dashboard.zebedee.io"><strong>Developer Dashboard</strong></a> ·
+  <a href="https://docs.zebedee.io/api/intro"><strong>API Reference</strong></a> ·
+  <a href="https://status.zebedee.io"><strong>API Status</strong></a>
+</p>
+<br/>
 
-## Contribution Guidelines
+## ZEBEDEE
 
-We LOVE (and welcome) any sort of helpful PRs from community members. We believe in open discord and support those pushing the boundaries of open source software.
+ZEBEDEE is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
 
-## Useful Resources
+We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZEBEDEE has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the industries of gaming, social, adtech and fintech.
 
-While our GitHub has lots of goodies such as open source SDKs, starter kits, and integration example source code, we actually host all of our documentatio and API reference elsewhere. Below are a list of useful links and resources for developers using ZEBEDEE.
+With ZEBEDEE, it's easy! Anyone can do it. **[What are YOU building?](https://dashboard.zebedee.io/signup)**
 
-- [Documentation Portal](https://docs.zebedee.io)
-- [API Status](https://status.zebedee.io) --> *we recommend setting up Slack or Email alerts*
-- [API Reference](https://api-reference.zebedee.io) --> *API rerence detailing each endpoint*
-- [ZBD.gg](https://zbd.gg) --> *consumer-facing mobile app/wallet for ZBD ecosystem*
+## Documentation
+
+For details on how to use ZEBEDEE, check out our [documentation](https://docs.zebedee.io).
+
+## Resources
+
 - [Help & Support](https://help.zebedee.io)
-- [Official Twitter](https://twitter.com/zebedeeio)
-- [Discord Group](https://discord.gg/zbd)
-- [Developer Dashboard](https://dashboard.zebedee.io)
+- [Twitter](https://twitter.com/zebedeeio)
+- [Discord](https://discord.gg/zbd)
+- [Download ZBD](https://zbd.gg)
+
+-----------
+
+# ZBD App
+
+<p align="center">
+  <a href="https://zbd.gg">
+    <img src="https://cdn.zebedee.io/an/zbd/zbd-download.png">
+  </a>
+</p>
+
+
