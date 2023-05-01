@@ -27,7 +27,7 @@
 
 ZEBEDEE is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
 
-We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZEBEDEE has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the industries of gaming, social, adtech and fintech.
+We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZEBEDEE has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the fields of gaming, social, adtech and fintech.
 
 With ZEBEDEE, it's easy! Anyone can do it. **[What are YOU building?](https://dashboard.zebedee.io/signup)**
 
