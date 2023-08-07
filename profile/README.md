@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zebedee.io">
-    <img src="https://cdn.zebedee.io/an/zbd/zbd-circle-github.png" height="96">
+    <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
     <h3 align="center">ZEBEDEE</h3>
   </a>
 </p>
