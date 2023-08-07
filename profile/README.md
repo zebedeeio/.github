@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://zebedee.io">
     <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
-    <h3 align="center">ZEBEDEE</h3>
+    <h3 align="center">ZBD</h3>
   </a>
 </p>
 
@@ -23,17 +23,17 @@
 </p>
 <br/>
 
-## ZEBEDEE
+## ZBD
 
-ZEBEDEE is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
+ZBD is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
 
-We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZEBEDEE has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the fields of gaming, social, adtech and fintech.
+We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZBD has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the fields of gaming, social, adtech and fintech.
 
-With ZEBEDEE, it's easy! Anyone can do it. **[What are YOU building?](https://dashboard.zebedee.io/signup)**
+With ZBD, it's easy! Anyone can do it. **[What are YOU building?](https://dashboard.zebedee.io/signup)**
 
 ## Documentation
 
-For details on how to use ZEBEDEE, check out our [documentation](https://docs.zebedee.io).
+For details on how to use ZBD, check out our [documentation](https://docs.zebedee.io).
 
 ## Resources
 
